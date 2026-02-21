@@ -9,7 +9,7 @@ Artist • Creator • Developer
 - **[Coordinates, Being and Duration](https://coordinates-being-and-duration.pages.dev/)** — Abstract art Project
 
 ## Interests
-- **Creative coding & generative art**
+- Creative coding • Creative tools • Music • Travel
 
 ## Links
 
