@@ -5,8 +5,8 @@ Artist • Creator • Developer
 - **[Joha Drawing](https://joha-app.pages.dev/)** — a creative p5.js drawing playground for **shapes**, **layers**, and **playful animations** (layered shape composition · animated strokes · generative patterns)
 
 ## Featured projects
-- **[Generative Art Portfolio](https://leeseomin-creative-art-portfolio.vercel.app/)** — a web page collecting generative art collections
-- **[Project 2](Link)** — one-line description
+- **Coordinates,Being and Duration** — a web page collecting generative art collections
+- **[Coordinates, Being and Duration](https://coordinates-being-and-duration.pages.dev/)** — Abstract art Project
 
 ## Interests
 - **Creative coding & generative art**
