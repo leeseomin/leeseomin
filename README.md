@@ -1,7 +1,8 @@
-# LEE SEOMIN 👋 · 🌐 [Website](https://leeseomin.pages.dev/)
+# LEE SEOMIN 
 
 Artist • Creator • Developer
 
+> **Main Website:** [leeseomin.pages.dev](https://leeseomin.pages.dev/)
 
 ## What I’m working on
 - **[Joha Drawing](https://joha-app.pages.dev/)** — a creative p5.js drawing playground for **shapes**, **layers**, and **playful animations** (layered shape composition · animated strokes · generative patterns)
