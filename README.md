@@ -10,6 +10,7 @@ Artist • Creator • Developer
 ## Featured projects
 - **[LEE SEOMIN Creative Art Portfolio](https://leeseomin-creative-art-portfolio.vercel.app/)** — personal creative art portfolio
 - **[Coordinates, Being and Duration](https://coordinates-being-and-duration.pages.dev/)** — Abstract art Project
+- **[Selected Artwork](https://leeseomin-selected.pages.dev/)** — curated selection of artworks
 - **[Skull, Abstract, Butterfly](https://skull-abstract-butterfly.pages.dev/)** — abstract art project (2022)
 
 ## Interests
