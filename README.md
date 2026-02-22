@@ -1,8 +1,6 @@
-## LEE SEOMIN 👋
+# LEE SEOMIN 👋 · 🌐 [Website](https://leeseomin.pages.dev/)
+
 Artist • Creator • Developer
-
-> **🌐 Main Website:** [leeseomin.pages.dev](https://leeseomin.pages.dev/) 
-
 
 
 ## What I’m working on
