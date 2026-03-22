@@ -2,6 +2,7 @@
 
 Artist • Creator • Developer
 
+### **Main Website:** [leeseomin.pages.dev](https://leeseomin.pages.dev/)
 > **Main Website:** [leeseomin.pages.dev](https://leeseomin.pages.dev/)
 
 ## What I’m working on
