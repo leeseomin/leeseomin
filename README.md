@@ -4,6 +4,7 @@ Artist • Creator • Developer
 
 ### **Main Website:** [leeseomin.pages.dev](https://leeseomin.pages.dev/)
 
+<br>
 
 ## What I’m working on
 - **[Joha Drawing — a creative p5.js drawing playground](https://joha-app.pages.dev/)** — Shapes, layers, and playful animations (layered composition · animated strokes · preset shapes)  
