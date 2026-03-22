@@ -11,7 +11,6 @@ Artist • Creator • Developer
 - **[Void Text — a quiet, native Mac editor for distraction-free writing](https://leeseomin.pages.dev/blog/2026-03-20-introducing-void-text/)**  
   Compact (~15MB), with PDF export, built-in typography (JetBrains Mono, Fira Code, UDEV Gothic), and a fully keyboard-driven workflow.
   
-- **[Void Text](https://leeseomin.pages.dev/blog/2026-03-20-introducing-void-text/)** — a quiet, native Mac editor built with Swift, designed for distraction-free writing. Compact (~15MB), with PDF export, built-in typography (JetBrains Mono, Fira Code, UDEV Gothic), and a fully keyboard-driven workflow
 
 
 ## Featured projects
