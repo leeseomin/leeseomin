@@ -7,7 +7,7 @@ Artist • Creator • Developer
 ## What I’m working on
 - **[Joha Drawing](https://joha-app.pages.dev/)** — a creative p5.js drawing playground for **shapes**, **layers**, and **playful animations** (layered shape composition · animated strokes · generative patterns)
 
-- **[Void Text](https://leeseomin.pages.dev/blog/2026-03-20-introducing-void-text/)** — a lightweight native Mac editor built with Swift, designed for distraction-free writing. Compact (~15MB), with PDF export, native typography (JetBrains Mono, Fira Code, UDEV Gothic), and a fully keyboard-driven workflow
+- **[Void Text](https://leeseomin.pages.dev/blog/2026-03-20-introducing-void-text/)** — a quiet, native Mac editor built with Swift, designed for distraction-free writing. Compact (~15MB), with PDF export, built-in typography (JetBrains Mono, Fira Code, UDEV Gothic), and a fully keyboard-driven workflow
 
 
 ## Featured projects
