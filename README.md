@@ -7,6 +7,10 @@ Artist • Creator • Developer
 ## What I’m working on
 - **[Joha Drawing](https://joha-app.pages.dev/)** — a creative p5.js drawing playground for **shapes**, **layers**, and **playful animations** (layered shape composition · animated strokes · generative patterns)
 
+- **[Void Text](https://leeseomin.pages.dev/blog/2026-03-20-introducing-void-text/)** — a lightweight native Mac editor built with Swift, designed for distraction-free writing. Compact (~15MB), with PDF export, refined typography, and a fully keyboard-driven workflow
+
+- 	
+
 ## Featured projects
 - **[LEE SEOMIN Creative Art Portfolio](https://leeseomin-creative-art-portfolio.vercel.app/)** — personal creative art portfolio
 - **[Coordinates, Being and Duration](https://coordinates-being-and-duration.pages.dev/)** — Abstract art Project
