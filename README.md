@@ -7,12 +7,16 @@ Artist • Creator • Developer
 <br>
 
 ## What I’m working on
+
+- **[Void Player – a free macOS music player for your local files](https://github.com/leeseomin/void-player)** -Organize your library with custom categories for faster access.
+
 - **[Joha Drawing — a creative p5.js drawing playground](https://joha-app.pages.dev/)** — Shapes, layers, and playful animations (layered composition · animated strokes · preset shapes)  
 
 
 - **[Void Text — a quiet, native Mac editor for distraction-free writing](https://leeseomin.pages.dev/blog/2026-03-20-introducing-void-text/)**  
   Compact (~15MB), with PDF export, built-in typography (JetBrains Mono, Fira Code, UDEV Gothic), and a fully keyboard-driven workflow.
   
+
 
 
 ## Featured projects
