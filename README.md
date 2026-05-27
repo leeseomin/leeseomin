@@ -13,7 +13,7 @@ Artist • Creator • Developer
 - **[Joha Drawing — a creative p5.js drawing playground](https://joha-app.pages.dev/)** — Shapes, layers, and playful animations (layered composition · animated strokes · preset shapes)  
 
 
-- **[Void Text — a quiet, native Mac editor for distraction-free writing](https://leeseomin.pages.dev/blog/2026-03-20-introducing-void-text/)**  
+- **[Void Text — a quiet, native Mac editor for distraction-free writing](https://voidtext.pages.dev/)**  
   Compact (~15MB), with PDF export, built-in typography (JetBrains Mono, Fira Code, UDEV Gothic), and a fully keyboard-driven workflow.
   
 
