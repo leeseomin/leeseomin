@@ -1,7 +1,5 @@
 # LEE SEOMIN 
 
-### Creative Technologist
-
 ### **Main Website:** [leeseomin.pages.dev](https://leeseomin.pages.dev/)
 
 <br>
