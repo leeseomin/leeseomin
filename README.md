@@ -8,6 +8,9 @@ Artist • Creator • Developer
 
 ## What I’m working on
 
+- **[Brush Lab — A playground for VECTOR calligraphy](https://brush-lab.pages.dev/)** — Create expressive vector brush artwork in your browser.
+  
+
 - **[Trip Bloom — discover the best cities to visit each month](https://best-city.pages.dev/?sort=nomad)** — Explore destinations based on seasonal weather and find where to travel throughout the year.
 
 
