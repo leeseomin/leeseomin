@@ -42,4 +42,4 @@
 - **X (Twitter):** https://x.com/techne_0_1
 - **LinkedIn:** https://www.linkedin.com/in/seomin-lee/
 - **Instagram:** https://www.instagram.com/ilcheyou
-- **Email:**  leeseomin@gmail.com
+
