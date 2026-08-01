@@ -8,11 +8,8 @@
 
 - **[Brush Lab — A playground for VECTOR calligraphy](https://brush-lab.pages.dev/)** — Create expressive vector brush artwork in your browser.
 
-- **[RELAYWAKE — A 10-minute browser survival action game](https://relaywake.pages.dev/)** — Choose one of
-  five operatives, combine 22 upgrades, and survive escalating enemy waves and bosses.
 
-- **[RELAYWAKE — A 10-minute browser survival action game](https://relaywake.pages.dev/)** — Choose one of
-  five operatives, combine 22 upgrades, and survive escalating enemy waves and bosses. · [Source code]
+- **[RELAYWAKE — A 10-minute browser survival action game](https://relaywake.pages.dev/)** — Choose one of five operatives, combine 22 upgrades, and survive escalating enemy waves and bosses. · [Source code]
   (https://github.com/leeseomin/Relaywake)
   
   
