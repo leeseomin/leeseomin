@@ -1,6 +1,8 @@
 # LEE SEOMIN 
 
-### **Main Website:** [leeseomin.pages.dev](https://leeseomin.pages.dev/)
+###  **Portfolio:** [leeseomin.pages.dev](https://leeseomin.pages.dev)
+###  **CV:** [leeseomin.pages.dev/cv](https://leeseomin.pages.dev/cv/)
+
 
 <br>
 
