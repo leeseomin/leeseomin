@@ -40,8 +40,6 @@
 ## Interests
 - Procedural Art • Creative coding • Creative tools • Music • Travel
 
-
-- 
 ## Links
 
 - **X (Twitter):** https://x.com/techne_0_1
