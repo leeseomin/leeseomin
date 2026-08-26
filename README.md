@@ -38,8 +38,10 @@
 - **[Skull, Abstract, Butterfly](https://skull-abstract-butterfly.pages.dev/)** — abstract art project (2022)
 
 ## Interests
-- Creative coding • Creative tools • Music • Travel
+- Procedural Art • Creative coding • Creative tools • Music • Travel
 
+
+- 
 ## Links
 
 - **X (Twitter):** https://x.com/techne_0_1
