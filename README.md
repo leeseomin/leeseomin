@@ -9,7 +9,7 @@
 
 ## What I’m working on
 
-- **[Brush Lab — A playground for VECTOR calligraphy](https://brush-lab.pages.dev/)** — Create expressive vector brush artwork in your browser.
+- **[Cali Lab — A playground for VECTOR calligraphy](https://cali-lab.pages.dev/)** — Create expressive vector brush artwork in your browser.
 
 
 - **[RELAYWAKE — A 10-minute browser survival action game](https://relaywake.pages.dev/)** — Choose one of
